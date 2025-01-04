@@ -6,6 +6,9 @@ This project leverages real-time sales data to analyze trends, customer feedback
 
 Dataset used in this Project <a href = "BlinkIT Grocery Data Excel.xlsx">Blinkit Grocery Dataset</a>
 
+This is the Link of  SQL Script Created to Validate the Accuracy of Data Represented in Dashboard <a href = "Blinkit_Analysis_SQL_Script.sql"> Blinkit SQL Script</a>
+
+This is the Link of SQL Script and Result screenshot Pdf 
 Key features of this Power BI dashboard include:
 
 - **Sales Overview**: Provides an at-a-glance view of BlinkIT’s total sales performance, including key metrics like total revenue, average transaction value, and customer satisfaction ratings.
