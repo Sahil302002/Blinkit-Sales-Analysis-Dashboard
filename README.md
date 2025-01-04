@@ -18,6 +18,9 @@ In addition to the dashboard's analytical capabilities, SQL Server Management St
 
 # Blinkit Dashboard
 
+![Blinkit Dashboard](https://github.com/user-attachments/assets/788e9dbd-caaf-45ba-b35a-d712ab41354d)
+
+
 ## Dashboard Explanation
 
 ### **1. Top KPIs:**
