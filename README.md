@@ -1,4 +1,4 @@
-## **BlinkIT Sales Analysis Dashboard in Power BI**
+# **BlinkIT Grocery Sales Analysis Dashboard in Power BI**
 
 The **BlinkIT Sales Analysis Dashboard** is a robust, data-driven tool built using **Power BI Desktop** to provide a comprehensive view of BlinkIT’s business performance, customer satisfaction, and inventory distribution. With interactive filters and visually engaging reports, the dashboard empowers decision-makers to make informed, data-backed choices, ultimately driving operational improvements and better business outcomes.
 
@@ -30,7 +30,7 @@ In addition to the dashboard's analytical capabilities, SQL Server Management St
 ![Blinkit Dashboard](https://github.com/user-attachments/assets/788e9dbd-caaf-45ba-b35a-d712ab41354d)
 
 
-## Dashboard Explanation
+# Dashboard Explanation
 
 ### **1. Top KPIs:**
 
@@ -96,7 +96,7 @@ Average sales and ratings are consistent across outlet types, but there is room 
 
 ---
 
-## **Insights**
+# **Insights**
 
 ### **1. Sales Contribution by Outlet Location:**
 
@@ -121,7 +121,7 @@ Average sales and ratings are consistent across outlet types, but there is room 
 
 ---
 
-### **Recommendations**
+# **Recommendations**
 
 ### **1. Expand in Tier 3 Cities:**
 
