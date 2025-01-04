@@ -4,6 +4,8 @@ The **BlinkIT Sales Analysis Dashboard** is a robust, data-driven tool built usi
 
 This project leverages real-time sales data to analyze trends, customer feedback, product preferences, and outlet performance across multiple regions. By breaking down sales across categories such as fat content, outlet size, and location, the dashboard highlights growth opportunities, assesses product demand, and identifies areas that need attention.
 
+Dataset used in this Project <a href = "BlinkIT Grocery Data Excel.xlsx">Blinkit Grocery Dataset</a>
+
 Key features of this Power BI dashboard include:
 
 - **Sales Overview**: Provides an at-a-glance view of BlinkIT’s total sales performance, including key metrics like total revenue, average transaction value, and customer satisfaction ratings.
